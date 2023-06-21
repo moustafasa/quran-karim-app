@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.04d6f218.css",
-    "main.js": "/static/js/main.ea901595.js",
-    "static/media/QuranSurah2-7Bov4.ttf": "/static/media/QuranSurah2-7Bov4.c71e34c366d121119814.ttf",
-    "static/media/sorahName.png": "/static/media/sorahName.2547d2b19a9b7fc1126d.png",
-    "static/media/logo.jpeg": "/static/media/logo.332cc3f9be7f17209f89.jpeg",
-    "index.html": "/index.html",
-    "main.04d6f218.css.map": "/static/css/main.04d6f218.css.map",
-    "main.ea901595.js.map": "/static/js/main.ea901595.js.map"
+    "main.css": "/quran-karim-app/static/css/main.de390684.css",
+    "main.js": "/quran-karim-app/static/js/main.8a6099bc.js",
+    "static/media/QuranSurah2-7Bov4.ttf": "/quran-karim-app/static/media/QuranSurah2-7Bov4.c71e34c366d121119814.ttf",
+    "static/media/sorahName.png": "/quran-karim-app/static/media/sorahName.2547d2b19a9b7fc1126d.png",
+    "static/media/logo.jpeg": "/quran-karim-app/static/media/logo.332cc3f9be7f17209f89.jpeg",
+    "index.html": "/quran-karim-app/index.html",
+    "main.de390684.css.map": "/quran-karim-app/static/css/main.de390684.css.map",
+    "main.8a6099bc.js.map": "/quran-karim-app/static/js/main.8a6099bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.04d6f218.css",
-    "static/js/main.ea901595.js"
+    "static/css/main.de390684.css",
+    "static/js/main.8a6099bc.js"
   ]
 }
